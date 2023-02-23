@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [hnamhocit](https://hanmhocit.vercel.app/products)
+- 👨‍💻 All of my projects are available at [hnamhocit](https://hanmhocit.vercel.app)
 
 - 💬 Ask me about **react, next.js, graphql,...**
 
