@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoàng Nam</h1>
-<h3 align="center">A passionate fullstack web developer from Viet Nam</h3>
+<h3 align="center">A passionate FULLSTACK developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnamhocit&label=Profile%20views&color=0e75b6&style=flat" alt="hnamhocit" /> </p>
 
