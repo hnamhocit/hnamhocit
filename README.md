@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Banner](./banner.png)
-
 <!-- Right illustration -->
 <div>
   <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -24,14 +21,6 @@ modern web applications using <b>React, Next.js, GraphQL</b> and scalable backen
 </p>
 
 ---
-
-## 🧰 Tech Stack
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills" src="./Skills_Animation_White.gif">
-</picture>
-<br/><br/><br/><br/>
 
 ---
 
