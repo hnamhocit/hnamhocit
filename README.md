@@ -48,42 +48,67 @@ modern web applications using <b>React, Next.js, GraphQL</b> and scalable backen
   </picture>
 </p>
 
----
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
+    <!-- GitHub Stats -->
     <td width="50%">
-      <h3 align="center">GitHub Stats</h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=hnamhocit&count_private=true&show_icons=true&theme=nightowl&hide_border=true" />
+        <a href="https://github.com/hnamhocit">
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=hnamhocit&show_icons=true&theme=nightowl&hide_border=true"
+            alt="GitHub Stats"
+          />
+        </a>
       </p>
     </td>
+
+    <!-- Streak Stats -->
     <td width="50%">
-      <h3 align="center">Streak Stats</h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnamhocit&theme=nightowl&hide_border=true" />
+        <a href="https://github.com/hnamhocit">
+          <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=hnamhocit&theme=nightowl&hide_border=true"
+            alt="Streak Stats"
+          />
+        </a>
       </p>
     </td>
   </tr>
+
   <tr>
+    <!-- Top Languages -->
     <td width="50%">
-      <h3 align="center">Top Languages</h3>
+      <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnamhocit&layout=compact&theme=nightowl&hide_border=true" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnamhocit&layout=compact&theme=nightowl&hide_border=true"
+          alt="Top Languages"
+        />
       </p>
     </td>
+
+    <!-- Pinned Project -->
     <td width="50%">
-      <h3 align="center">Pinned Project</h3>
+      <h3 align="center"><strong>Pinned Project</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hnamhocit&repo=YOUR_REPO_NAME&theme=nightowl&hide_border=true" />
+        <a href="https://github.com/hnamhocit/YOUR_REPO_NAME">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=hnamhocit&repo=YOUR_REPO_NAME&theme=nightowl&hide_border=true"
+            alt="Pinned Project"
+          />
+        </a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
 ## 🤝 Connect with me
 <p align="center">
