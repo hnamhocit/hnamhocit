@@ -2,129 +2,124 @@
 
 # Hey, I'm Hoàng Nam 👋
 
-### Full-stack Developer · Builder · Systems Curious
+### Software & AI Engineer · Full-stack & Systems Builder
 
-            I build web applications, backend services, developer tools, and products that solve problems I actually care about.
-<p>                               <a href="https://github.com/hnamhocit">                           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />         </a>
+I design and ship production web applications, identity & backend infrastructure, and AI-powered systems that solve real problems.
+
+<p>
+  <a href="https://github.com/hnamhocit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="mailto:hnamhocit@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>                            <a href="https://fb.com/hnamhocit">                               <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />   </a>
+  </a>
+  <a href="https://fb.com/hnamhocit">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-I'm a Full-stack Developer from Vietnam with a strong interest in **application architecture, backend systems, databases, and developer tooling**.
-I mainly work with **TypeScript, React/Next.js, Go, and PostgreSQL**, while also exploring **Rust, Java, Flutter, and Zig** depending on the problem.
-           I care about understanding how things work underneath — from API boundaries and database indexes to memory, concurrency, and operating-system concepts.
-         - 🔨 Building products rather than just demos
-- 🧩 Interested in backend architecture & API design            - 🗄️ Enjoy database design, PostgreSQL and query performance
-- ⚡ Care about performance and clean abstractions
-- 🐧 Linux user & self-hosting enthusiast
-- 🦀 Exploring Rust and low-level systems programming
+
+I'm a Software & AI Engineer from Vietnam focused on **full-stack product engineering, backend architecture, and practical AI integration**.
+
+I primarily work with **TypeScript, Next.js, Go, C# (.NET), Python, and PostgreSQL**, while exploring **Rust and low-level systems** when performance or memory control matters. In the AI era, I care less about wrapper demos and more about **reliable AI engineering** — structured outputs, retrieval pipelines, media/content verification, and deterministic system boundaries around non-deterministic models.
+
+- 🔨 Shipping end-to-end products rather than throwaway demos
+- 🤖 Building practical AI workflows, LLM integrations, and automated verification pipelines
+- 🔐 Designing auth systems, OAuth 2.0 / PKCE flows, and clean API boundaries
+- 🗄️ Obsessed with relational data modeling, PostgreSQL indexing, and query performance
+- 🐧 Linux daily driver & self-hosting enthusiast
+- 🦀 Exploring Rust, concurrency, and OS internals
 
 ---
 
 ## 🛠️ Tech Stack
+
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,java,rust,dart,cpp,zig" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,dart" alt="Languages" />
 </p>
 
-### Frontend
-
+### Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter" alt="Frontend and Mobile" />
 </p>
 
-### Backend
-
+### Backend & AI Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nestjs,express,spring" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=dotnet,go,nestjs,express,fastapi" alt="Backend and AI" />
 </p>
 
-### Data & Infrastructure
-
+### Data, Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,git" alt="Data and Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,cloudflare,linux,git" alt="Data and Infrastructure" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔴 Povixa
+### 🔐 VNTEZ & VNTEZ IAM
+> **Live:** [vntez.vercel.app](https://vntez.vercel.app) · **IAM:** [vntez-iam.vercel.app](https://vntez-iam.vercel.app)
 
-A SaaS / technology platform built around an **API-driven architecture** and **microfrontend-based frontend composition**.
+A centralized Identity & Access Management (IAM) and developer ecosystem implementing **OAuth 2.0 with PKCE**, single sign-on (SSO), token lifecycle management, and a dedicated TypeScript SDK (`@vntez/sdk`) for seamless cross-app authentication.
 
-Exploring how independently developed frontend modules can work together while keeping application boundaries and APIs explicit.
-
-**SaaS · API · Microfrontends · TypeScript**
-
----
-
-### 🌍 transle
-
-A lightweight internationalization utility for modern TypeScript applications.
-
-Built to make translations, interpolation, pluralization and tagged content easier to manage without adding unnecessary complexity.
-
-**TypeScript · Vite · Zustand · i18n**
+**OAuth 2.0 PKCE · SSO · TypeScript SDK · Next.js · Edge Architecture**
 
 ---
 
-### ⚙️ mero
+### 🎬 AniVFX
+> **Live:** [ani-vfx.vercel.app](https://ani-vfx.vercel.app)
 
-A full-stack application focused on authentication, API design, real-time communication and relational data modeling.
+A modern, high-performance anime streaming platform powered by **AniList GraphQL**, featuring multi-provider stream resolution, native HLS adaptive playback, franchise timeline navigation, and local-first watch progress synchronization.
 
-**TypeScript · Express · Prisma · PostgreSQL · Socket.IO**
-
----
-
-### 📱 eos
-
-A productivity application concept that brings **notes, tasks, calendar, reminders and files** into one workflow.
-
-The project explores a local-first approach with mobile-first UX and room for desktop workflows later.
-
-**Flutter · Dart · Supabase**
+**Next.js · TypeScript · AniList GraphQL · HLS.js · Zustand**
 
 ---
 
-## 🧠 Currently Exploring
+### 🛒 E-Commerce Platform
+A scalable e-commerce backend and storefront engineered for transactional integrity, inventory consistency, and fast catalog search — featuring distributed caching, relational schema migrations, and edge object storage.
+
+**ASP.NET Core / C# · PostgreSQL · Redis · Cloudflare R2 · Docker**
+
+---
+
+### 🧠 AI-Assisted Media & Workflow Systems
+Building applied AI pipelines including perceptual image hashing (`pHash`), automated AI-generated content detection, structured LLM data extraction, and developer knowledge aggregation.
+
+**Python · TypeScript · LLM Pipelines · Computer Vision · Structured Outputs**
+
+---
+
+## 🧭 Currently Exploring
 
 ```text
-Application Architecture
-├── API design
-├── System design
-├── Authentication & authorization
-└── Service boundaries
+AI Engineering
+├── LLM orchestration & structured outputs
+├── RAG, embeddings & hybrid search
+├── AI-assisted verification & evaluation pipelines
+└── Deterministic guardrails for agentic workflows
 
-Databases
-├── PostgreSQL internals
-├── Indexes & query planning
-├── Transactions
-└── Data modeling
+Systems & Architecture
+├── OAuth 2.0 / OIDC & zero-trust auth boundaries
+├── Distributed caching & event-driven workers
+├── API design & edge compute (Cloudflare Workers)
+└── High-concurrency backend services
 
-Systems
-├── Memory & virtual memory
-├── Allocators
-├── Linux
-├── Rust
-└── Zig
-
-Engineering
-├── Performance
-├── Concurrency
-├── Observability
-└── Production-ready software
+Databases & Internals
+├── PostgreSQL query planner & indexing strategies
+├── ACID transactions & concurrency control
+├── Memory management & OS fundamentals
+└── Rust & systems programming
 ```
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -145,8 +140,6 @@ Engineering
   />
 </p>
 
-> If GitHub's third-party API limits cause these cards to fail, the profile still remains fully usable — the cards are only supplementary.
-
 ---
 
 ## 🤝 Connect
@@ -165,6 +158,6 @@ Engineering
 
 <div align="center">
 
-### Build things. Understand them. Make them better.
+### Build real systems. Understand the internals. Ship with intent.
 
 </div>
